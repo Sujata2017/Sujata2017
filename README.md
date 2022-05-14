@@ -14,8 +14,6 @@ Languages and Tools:
 </p>
 
 
-
-
 You can find me on- https://www.linkedin.com/in/sujata-roy/
 
 
