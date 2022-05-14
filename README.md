@@ -7,7 +7,7 @@
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=flask, git, mysql, opencv, postman, pycharm, python, pytorch, scikit_learn, tensorflow)]
+[![My Skills](https://skillicons.dev/icons?i=flask,git,mysql,opencv,postman,pycharm,python,pytorch,scikit_learn,tensorflow)]
 
 
 You can find me on- LinkedInsujata-roy
