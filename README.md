@@ -7,10 +7,16 @@
 
 Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=flask,git,mysql,opencv,postman,pycharm,python,pytorch,scikit_learn,tensorflow)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,git,mysql,opencv,postman,pycharm,python,pytorch,scikit_learn,tensorflow" />
+  </a>
+</p>
 
 
-You can find me on- LinkedInsujata-roy
+
+
+You can find me on- https://www.linkedin.com/in/sujata-roy/
 
 
                           
@@ -27,4 +33,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  ![My Skills](https://skillicons.dev/icons?i=flask,git,mysql,opencv,postman,pycharm,python,pytorch,scikit_learn,tensorflow)
+
+
