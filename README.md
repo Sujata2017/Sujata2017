@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Sujata2017)
 
 ### Hi 👋
 
@@ -6,7 +6,9 @@
 
 
 Languages and Tools:
-flask git mysql opencv postman pycharm python pytorch scikit_learn tensorflow
+
+[![My Skills](https://skillicons.dev/icons?i=flask, git, mysql, opencv, postman, pycharm, python, pytorch, scikit_learn, tensorflow)](https://skillicons.dev)
+
 
 You can find me on- LinkedInsujata-roy
 
