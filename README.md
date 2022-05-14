@@ -1,7 +1,17 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ### Hi 👋
 
-# I'm Sujata!
+### I'm Sujata!
 
+
+Languages and Tools:
+flask git mysql opencv postman pycharm python pytorch scikit_learn tensorflow
+
+You can find me on- LinkedInsujata-roy
+
+
+                          
 <!--
 **Sujata2017/Sujata2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
