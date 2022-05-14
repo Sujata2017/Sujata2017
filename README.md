@@ -22,7 +22,7 @@ You can find me on- https://www.linkedin.com/in/sujata-roy/
                           
 <!--
 **Sujata2017/Sujata2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![My Skills](https://skillicons.dev/icons?i=flask,git,mysql,opencv,postman,pycharm,python,pytorch,scikit_learn,tensorflow)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->  ![My Skills](https://skillicons.dev/icons?i=flask,git,mysql,opencv,postman,pycharm,python,pytorch,scikit_learn,tensorflow)
+-->  
 
 
