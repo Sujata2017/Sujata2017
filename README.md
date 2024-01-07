@@ -5,9 +5,9 @@
 
 
 
+<img src="https://komarev.com/ghpvc/?username=Sujata2017&style=flat-square&color=blue" alt=""/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujata2017&label=Profile%20views&color=0e75b6&style=flat" alt="sujata2017" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,7 +71,14 @@ Languages and Tools:
 You can find me on- https://www.linkedin.com/in/sujata-roy/
 
 
+
+
+
 <a href="https://linkedin.com/in/sujata-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujata-roy" height="30" width="40" /></a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujata2017&label=Profile%20views&color=0e75b6&style=flat" alt="sujata2017" /> </p>
+
 
 
 ![opencv](https://opencv.org/)
