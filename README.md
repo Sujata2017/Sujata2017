@@ -5,7 +5,7 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=Sujata2017&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=sujata2017&style=flat-square&color=blue" alt=""/>
 
 
 
