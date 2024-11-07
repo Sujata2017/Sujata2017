@@ -20,6 +20,11 @@
 <a href="https://kaggle.com/sujataroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sujataroy" height="30" width="40" /></a>
 </p>
 
+[![An image of @sujata2017's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujata2017)](https://holopin.io/@sujata2017)
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
